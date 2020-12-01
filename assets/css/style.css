@@ -1,0 +1,47 @@
+body{
+    overflow-y: hidden;
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+  
+}
+
+.warning{
+    color: red;
+}
+
+.title {
+    margin-bottom: 10vh;
+    margin-top: 8vh;
+}
+
+.marginImg {
+    margin-bottom: 5vh;
+}
+
+.colorGreen {
+    color: green;
+}
+
+.colorWhite {
+    color: white;
+}
+
+ul {
+    list-style-type : none;
+}
+
+.marginText {
+    margin-bottom: 13vh;
+}
+
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+.row button{
+    margin-top: 50vh;
+}
+
+
